@@ -24,7 +24,7 @@
   
   /* MARK: - First Block Start */
   #first-block {
-    background-image: url (tozan.jpg);
+    background-image: url("../images/tozan.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -189,5 +189,3 @@
       font-size: 30px;
     }
   }
-
-
